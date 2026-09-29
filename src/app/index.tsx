@@ -40,6 +40,8 @@ export default function HomeScreen() {
         </ThemedView>
 
         <Text style = {styles.text}> Hello My Application </Text>
+        <Text style = {styles.text}> Hello My Application2 </Text>
+        
 
         <ThemedText type="code" style={styles.code}>
           get started
